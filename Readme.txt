@@ -1,6 +1,12 @@
-A sophisticated examination system project written in Java and JDBC with a command line interface. The system supports two types of user accounts - students and teachers, and supports various functions such as creating test entries, test taking, report generation for exams and analysis etc... The databased is maintained by SQL and Oracle and has to be interacted with JDBC.
+A sophisticated examination system project written in Java and JDBC with a command line interface. 
+The system supports two types of user accounts - students and teachers, and supports various functions such as creating test entries, 
+test taking, report generation for exams and analysis etc... 
+The databased is maintained by SQL and Oracle and has to be interacted with JDBC.
 
-I was the leader of a group of four in this project and had to coordinate my team to implement a total of 12 modules in this system. The demonstration of the interface are in files "Anaysis_Report.pdf" and "UserGuide.pdf", while an abstraction of analysis of this project are located in "Project_Report.pdf". Sensitive information such as names are redacted for privacy reasons.
+I was the leader of a group of four in this project and had to coordinate my team to implement a total of 12 modules in this system. 
+The demonstration of the interface are in files "Anaysis_Report.pdf" and "UserGuide.pdf", 
+while an abstraction of analysis of this project are located in "Project_Report.pdf". 
+Sensitive information such as names are redacted for privacy reasons.
 
 
 This project is a java JDBC project built to be run on Apollo Server.
